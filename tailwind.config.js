@@ -18,8 +18,8 @@ module.exports = {
         'grayscale-title-active': '#14142B',
       },
       fontFamily: {
-        'primary': ['Montserrat'],
-        'secondary': ['Poppins'] 
+        'primary': ['"Montserrat"'],
+        'secondary': ['"Poppins"'] 
       }
     },
   },

@@ -1,6 +1,6 @@
 function Headline() {
     return (
-        <p>Headline</p>
+        <div id="Headline" class="headline">Price Alert</div>
     );
 }
 
