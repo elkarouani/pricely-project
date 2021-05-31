@@ -1,7 +1,7 @@
 import Header from '../containers/Header';
-import Headline from '../containers/Header';
+import Headline from '../containers/Headline';
 import MainSection from '../containers/MainSection';
-import PricesSection from '../containers/MainSection';
+import PricesSection from '../containers/PricesSection';
 
 function Home() {
   return (
