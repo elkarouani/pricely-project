@@ -39,7 +39,7 @@
     }
 
     .active-board-title {
-        @apply px-16 py-2 font-primary font-semibold text-sm text-grayscale-title-active;
+        @apply px-16 py-1 font-primary font-semibold text-sm text-grayscale-title-active;
     }
 
     .active-board-subtitle {
@@ -51,7 +51,7 @@
     }
 
     .non-active-board-title {
-        @apply text-center py-2 font-primary font-semibold text-sm text-grayscale-title-active;
+        @apply text-center py-1 font-primary font-semibold text-sm text-grayscale-title-active;
     }
 
     .non-active-board-subtitle {
