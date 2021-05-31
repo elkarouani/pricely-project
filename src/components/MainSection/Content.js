@@ -11,11 +11,11 @@ function Content() {
                         <option value="btc" selected="selected">BTC</option>
                     </select>
                     goes
-                    <select name="state" id="CurrencyState" class="my-2 ml-2 mr-1 w-24 pl-2 form-input">
+                    <select name="state" id="CurrencyState" class="my-2 mx-2 mr-1 w-24 pl-2 form-input">
                         <option value="above" selected="selected">Above</option>
                     </select>
                     the price of
-                    <input type="number" name="edge-price" id="CurrencyEdgePrice" placeholder="0.00 $" class="my-2 mx-1 w-16 pl-2 form-input" />
+                    <input type="number" name="edge-price" id="CurrencyEdgePrice" placeholder="0.00 $" class="my-2 mx-2 w-16 pl-2 form-input" />
                 </p>  
             </form>
             <button class="mt-12 ml-32 py-2 pl-4 pr-6 rounded-md flex items-center bg-main-cta text-white font-secondary font-semibold text-xs">
