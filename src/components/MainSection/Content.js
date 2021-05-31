@@ -5,9 +5,9 @@ function Content() {
             <form action="#" class="mt-10">
                 <p class="form-paragraph">
                     Send me an email 
-                    <input type="text" placeholder="Email" class="my-2 w-32 mx-1 px-6 form-input" />
+                    <input type="text" placeholder="Email" class="my-2 w-32 mx-2 px-6 form-input" />
                     as soon as
-                    <select name="name" id="CurrencyName" class="my-2 mr-1 w-20 pl-2 form-input">
+                    <select name="name" id="CurrencyName" class="my-2 mr-2 w-20 pl-2 form-input">
                         <option value="btc" selected="selected">BTC</option>
                     </select>
                     goes
