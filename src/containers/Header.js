@@ -1,5 +1,5 @@
-import Brand from "../components/Brand";
-import Navigation from "../components/Navigation";
+import Brand from "../components/Header/Brand";
+import Navigation from "../components/Header/Navigation";
 
 function Header() {
     return (
