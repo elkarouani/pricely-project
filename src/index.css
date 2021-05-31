@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layout components {
+    .brand-text {
+        @apply ml-2 font-primary font-bold text-xl text-primary-gray;
+    }
+    
+    .navigation {
+        @apply flex items-center space-x-6 font-secondary font-semibold text-xs text-non-active-link;
+    }
+}
