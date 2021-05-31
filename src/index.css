@@ -34,6 +34,10 @@
         @apply py-2 border border-main-input-border rounded-sm font-primary font-semibold text-xs placeholder-main-placeholder;
     }
 
+    .form-cta {
+        @apply mt-12 ml-32 py-3 pl-4 pr-6 rounded-md flex items-center bg-main-cta text-white font-secondary font-semibold text-xs;
+    }
+
     .active-board-container {
         @apply bg-price-active px-12 py-2 rounded-xl;
     }
