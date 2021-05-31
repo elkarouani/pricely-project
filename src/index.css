@@ -7,7 +7,7 @@
 
 @layer components {
     .brand-text {
-        @apply ml-2 font-primary font-bold text-xl text-primary-gray;
+        @apply ml-1 pt-1 font-primary font-bold text-xl text-primary-gray;
     }
     
     .navigation {
